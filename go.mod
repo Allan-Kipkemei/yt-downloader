@@ -10,5 +10,6 @@ require (
 	github.com/dop251/goja v0.0.0-20240220182346-e401ed450204 // indirect
 	github.com/go-sourcemap/sourcemap v2.1.3+incompatible // indirect
 	github.com/google/pprof v0.0.0-20240227163752-401108e1b7e7 // indirect
+	github.com/kkdai/youtube v1.2.4 // indirect
 	golang.org/x/text v0.14.0 // indirect
 )

@@ -14,7 +14,7 @@ func main() {
     // Initialize a YouTube client
     client := youtube.Client{}
 
-    // Prompt user for YouTube link
+    // Prompt user for YouTube link 
     fmt.Print("Enter YouTube video link: ")
     reader := bufio.NewReader(os.Stdin)
     videoURL, _ := reader.ReadString('\n')
@@ -70,3 +70,4 @@ func sanitizeFilename(filename string) string {
     }
     return filename
 }
+  
